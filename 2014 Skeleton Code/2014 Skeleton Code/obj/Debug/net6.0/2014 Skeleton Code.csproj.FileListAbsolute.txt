@@ -1,0 +1,14 @@
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\2014 Skeleton Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\2014 Skeleton Code.AssemblyInfoInputs.cache
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\2014 Skeleton Code.AssemblyInfo.cs
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\2014 Skeleton Code.csproj.CoreCompileInputs.cache
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\bin\Debug\net6.0\2014 Skeleton Code.exe
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\bin\Debug\net6.0\2014 Skeleton Code.deps.json
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\bin\Debug\net6.0\2014 Skeleton Code.runtimeconfig.json
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\bin\Debug\net6.0\2014 Skeleton Code.dll
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\bin\Debug\net6.0\2014 Skeleton Code.pdb
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\2014 Skeleton Code.dll
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\refint\2014 Skeleton Code.dll
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\2014 Skeleton Code.pdb
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\2014 Skeleton Code.genruntimeconfig.cache
+C:\Users\thompson7192\OneDrive - Bradford Grammar School\Home Drive\Y12+13\Computer Science\Practical\__ Tests\2014 Skeleton Code\2014 Skeleton Code\obj\Debug\net6.0\ref\2014 Skeleton Code.dll
